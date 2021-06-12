@@ -1,11 +1,11 @@
 {
     "response": [
         {
-            "datetime": "1623523109",
+            "datetime": 1623523109,
             "filename": "signed-mido-ota_update2.zip",
             "id": "5eaed4f73f3a5ff7050a489d6e44941e",
             "romtype": "OFFICIAL",
-            "size": "678298115",
+            "size": 678298115,
             "url": "https://downloads.droidontime.com/dot11/mido/vanilla/signed-mido-ota_update2.zip",
             "version": "v5.1",
             "changelog": [
