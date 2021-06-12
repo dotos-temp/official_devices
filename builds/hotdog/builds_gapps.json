@@ -1,11 +1,11 @@
 {
     "response": [
         {
-            "datetime": "1623426072",
+            "datetime": 1623426072,
             "filename": "dotOS-R-v5.1.1-hotdog-GAPPS-20210611-5555.zip",
             "id": "e5d7b622cfb772933819b6ba02882c6b",
             "romtype": "GAPPS",
-            "size": "1269114910",
+            "size": 1269114910,
             "url": "https://link.ap1.storjshare.io/s/jvs2de66pocb75oo6bpkqjdk7ota/downloads/dotOS-R-v5.1.1-hotdog-GAPPS-20210611-5555.zip?download",
             "version": "v5.1.1",
             "changelog": [
