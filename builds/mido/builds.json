@@ -1,16 +1,16 @@
 {
     "response": [
         {
-            "datetime": "1622146545",
-            "filename": "dotOS-R-v5.1-mido-OFFICIAL-20210527-1938.zip",
-            "id": "f5bf6c3e7afe24cc9e1938b7efdfb0bb",
+            "datetime": "1623523109",
+            "filename": "signed-mido-ota_update2.zip",
+            "id": "5eaed4f73f3a5ff7050a489d6e44941e",
             "romtype": "OFFICIAL",
-            "size": "684900395",
-            "url": "https://downloads.droidontime.com/dot11/mido/vanilla/dotOS-R-v5.1-mido-OFFICIAL-20210527-1938.zip",
+            "size": "678298115",
+            "url": "https://downloads.droidontime.com/dot11/mido/vanilla/signed-mido-ota_update2.zip",
             "version": "v5.1",
             "changelog": [
                 {
-                    "miscTitle": "",
+                    "miscTitle": "testing OTA",
                     "miscSummary": "",
                     "settingsTitle": "Huge revamp",
                     "settingsSummary": "\u2022 New dashboard look\n\u2022 Fixed avatar icon on dashboard\n\u2022 Implemented Silky UI\n\u2022 Multiple sections revamped to match guidelines\n\u2022 AboutDevice card revamped\n\u2022 Revamped Customizations app\n...\n\u2022 Full changelog : https://changelogs.droidontime.com/",
