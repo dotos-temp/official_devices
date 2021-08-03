@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1623523109,
-            "filename": "signed-mido-ota_update2.zip",
-            "id": "5eaed4f73f3a5ff7050a489d6e44941e",
+            "datetime": 1628014121,
+            "filename": "dotOS-R-v5.1.3-mido-OFFICIAL-20210803-1808.zip",
+            "id": "cbff39f4aae355617545dd22596065de",
             "romtype": "OFFICIAL",
-            "size": 678298115,
+            "size": 679823942,
             "url": "https://downloads.droidontime.com/dot11/mido/vanilla/signed-mido-ota_update2.zip",
-            "version": "v5.1.1",
+            "version": "v5.1.3",
             "changelog": [
                 {
                     "miscTitle": "testing OTA",
